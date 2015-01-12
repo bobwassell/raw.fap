@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: raw.fap
+Version: .1
+Summary: Raw Fap Theme
+Home-page: http://svn.plone.org/svn/collective/
+Author: raw systems llc
+Author-email: rawsystems@gmail.com
+License: GPL
+Description: Introduction
+        ============
+        
+        
+        
+        This product may contain traces of nuts.
+        
+        Changelog
+        =========
+        
+        .1dev (unreleased)
+        ------------------
+        
+        - Initial release
+        
+Keywords: web zope plone theme
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
